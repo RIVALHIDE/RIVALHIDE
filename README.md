@@ -37,6 +37,14 @@
 
 ---
 
+## `> NOW`
+
+- **Building:** EDIT_ME (your current project, with a link)
+- **Learning:** EDIT_ME (for example: sensor fusion, ROS 2, model deployment)
+- **Looking for:** EDIT_ME (internship / full-time role / collaborators in drone + vision projects)
+
+---
+
 ## `> OPEN.SOURCE`
 
 - [cortex](https://github.com/RIVALHIDE/cortex) - AI-native operating system (Rust)
@@ -81,6 +89,13 @@
 ![Git](https://img.shields.io/badge/Git-0a1020?style=for-the-badge&logo=git&logoColor=8a63ff)
 
 </div>
+
+---
+
+## `> RECENT.ACTIVITY`
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
