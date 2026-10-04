@@ -53,8 +53,6 @@
 
 <img src="https://streak-stats.demolab.com?user=RIVALHIDE&theme=dark&hide_border=true&background=060912&ring=8a63ff&fire=00e5ff&currStreakLabel=c9d3f5&sideLabels=7f8db3&currStreakNum=ffffff&sideNums=ffffff&dates=5d6f99"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIVALHIDE&bg_color=060912&color=8a63ff&line=8a63ff&point=00e5ff&area=true&area_color=5b3fd1&hide_border=true" width="100%"/>
-
 </div>
 
 ---
