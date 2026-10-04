@@ -1,0 +1,32 @@
+name: Update Avatar Banner
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # checks for a new profile photo every 6 hours
+  workflow_dispatch:
+  push:
+    paths:
+      - "assets/banner.template.svg"
+      - "scripts/build_banner.py"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build banner with current profile photo
+        run: python3 scripts/build_banner.py
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/banner.svg
+          git diff --cached --quiet || git commit -m "chore: refresh avatar in banner"
+          git push
