@@ -103,8 +103,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1020?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-0a1020?style=for-the-badge&logo=gmail&logoColor=8a63ff)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1020?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://www.linkedin.com/in/anuj-ghodke-5a7ab5353)
+[![Email](https://img.shields.io/badge/Email-0a1020?style=for-the-badge&logo=gmail&logoColor=8a63ff)](mailto:anujghodke09@gmail.com)
 
 </div>
 
