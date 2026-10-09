@@ -95,6 +95,10 @@
 ## `> RECENT.ACTIVITY`
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/NiteshBuilds/DroidFlow/pull/1) in [NiteshBuilds/DroidFlow](https://github.com/NiteshBuilds/DroidFlow)
+2. 💪 Opened PR [#1](https://github.com/NiteshBuilds/DroidFlow/pull/1) in [NiteshBuilds/DroidFlow](https://github.com/NiteshBuilds/DroidFlow)
+3. 🎉 Merged PR [#1](https://github.com/RIVALHIDE/Code-sync/pull/1) in [RIVALHIDE/Code-sync](https://github.com/RIVALHIDE/Code-sync)
+4. 💪 Opened PR [#1](https://github.com/RIVALHIDE/Code-sync/pull/1) in [RIVALHIDE/Code-sync](https://github.com/RIVALHIDE/Code-sync)
 <!--END_SECTION:activity-->
 
 ---
