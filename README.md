@@ -95,10 +95,10 @@
 ## `> RECENT.ACTIVITY`
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon/pull/5) in [prashantsky25-design/DJ-24-hour-Hackathon](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon)
-2. 💪 Opened PR [#5](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon/pull/5) in [prashantsky25-design/DJ-24-hour-Hackathon](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon)
-3. 🎉 Merged PR [#4](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon/pull/4) in [prashantsky25-design/DJ-24-hour-Hackathon](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon)
-4. 💪 Opened PR [#4](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon/pull/4) in [prashantsky25-design/DJ-24-hour-Hackathon](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon)
+1. 🎉 Merged PR [#6](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon/pull/6) in [prashantsky25-design/DJ-24-hour-Hackathon](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon)
+2. 💪 Opened PR [#6](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon/pull/6) in [prashantsky25-design/DJ-24-hour-Hackathon](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon)
+3. 🎉 Merged PR [#5](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon/pull/5) in [prashantsky25-design/DJ-24-hour-Hackathon](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon)
+4. 💪 Opened PR [#5](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon/pull/5) in [prashantsky25-design/DJ-24-hour-Hackathon](https://github.com/prashantsky25-design/DJ-24-hour-Hackathon)
 <!--END_SECTION:activity-->
 
 ---
