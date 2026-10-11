@@ -13,36 +13,15 @@
 - **Drone systems:** ground control dashboards, MAVLink and WebSockets, live multi-drone monitoring
 - **Computer vision:** real-time detection and tracking with YOLOv8 + DeepSORT
 - **Algorithms:** pathfinding, motion planning and route optimization
-
----
-
-## `> FEATURED.PROJECTS`
-
-<div align="center">
-
-<a href="https://github.com/RIVALHIDE/Multi-Drone-GCS-Dashboard-MAVLink-WebSockets-">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RIVALHIDE&repo=Multi-Drone-GCS-Dashboard-MAVLink-WebSockets-&hide_border=true&bg_color=060912&title_color=8a63ff&icon_color=00e5ff&text_color=c9d3f5"/>
-</a>
-<a href="https://github.com/RIVALHIDE/Drone-Surveillance-Tracking-System-YOLOv8-DeepSORT-">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RIVALHIDE&repo=Drone-Surveillance-Tracking-System-YOLOv8-DeepSORT-&hide_border=true&bg_color=060912&title_color=8a63ff&icon_color=00e5ff&text_color=c9d3f5"/>
-</a>
-<a href="https://github.com/RIVALHIDE/-DeliverX-Optimizer">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RIVALHIDE&repo=-DeliverX-Optimizer&hide_border=true&bg_color=060912&title_color=8a63ff&icon_color=00e5ff&text_color=c9d3f5"/>
-</a>
-<a href="https://github.com/RIVALHIDE/PathLogic">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RIVALHIDE&repo=PathLogic&hide_border=true&bg_color=060912&title_color=8a63ff&icon_color=00e5ff&text_color=c9d3f5"/>
-</a>
-
-</div>
+- **ML MODELS:** deep reinforcement learning (PPO/SAC) for autonomous flight control, semantic segmentation for scene understanding, and behavioral cloning for end-to-end visual navigation
 
 ---
 
 ## `> NOW`
 
-- **Building:** EDIT_ME (your current project, with a link)
-- **Learning:** EDIT_ME (for example: sensor fusion, ROS 2, model deployment)
-- **Looking for:** EDIT_ME (internship / full-time role / collaborators in drone + vision projects)
-
+- **Building:** DroidFlow (a general-purpose no-code AI automation platform for Android built with FastAPI, Next.js, and LangGraph)
+- **Learning:** Agentic workflows, LangChain/LangGraph, and local ML model training with PyTorch and TensorFlow
+- **Looking for:** Software engineering or AI internship opportunities and some crazy people to collaborate on repo's
 ---
 
 ## `> OPEN.SOURCE`
@@ -80,16 +59,15 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0a1020?style=for-the-badge&logo=python&logoColor=8a63ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a1020?style=for-the-badge&logo=javascript&logoColor=00e5ff)
-![Rust](https://img.shields.io/badge/Rust-0a1020?style=for-the-badge&logo=rust&logoColor=8a63ff)
-![Vue](https://img.shields.io/badge/Vue-0a1020?style=for-the-badge&logo=vuedotjs&logoColor=00e5ff)
-![OpenCV](https://img.shields.io/badge/OpenCV-0a1020?style=for-the-badge&logo=opencv&logoColor=8a63ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-0a1020?style=for-the-badge&logo=jupyter&logoColor=00e5ff)
-![Git](https://img.shields.io/badge/Git-0a1020?style=for-the-badge&logo=git&logoColor=8a63ff)
+![Python](https://img.shields.io/badge/Python-0a1020?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a1020?style=for-the-badge&logo=javascript)
+![Rust](https://img.shields.io/badge/Rust-0a1020?style=for-the-badge&logo=rust)
+![Vue](https://img.shields.io/badge/Vue-0a1020?style=for-the-badge&logo=vuedotjs)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a1020?style=for-the-badge&logo=opencv)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a1020?style=for-the-badge&logo=jupyter)
+![Git](https://img.shields.io/badge/Git-0a1020?style=for-the-badge&logo=git)
 
 </div>
-
 ---
 
 ## `> RECENT.ACTIVITY`
