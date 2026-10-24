@@ -73,10 +73,10 @@
 ## `> RECENT.ACTIVITY`
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/NiteshBuilds/DroidFlow/pull/1) in [NiteshBuilds/DroidFlow](https://github.com/NiteshBuilds/DroidFlow)
-2. 💪 Opened PR [#1](https://github.com/NiteshBuilds/DroidFlow/pull/1) in [NiteshBuilds/DroidFlow](https://github.com/NiteshBuilds/DroidFlow)
-3. 🎉 Merged PR [#1](https://github.com/RIVALHIDE/Code-sync/pull/1) in [RIVALHIDE/Code-sync](https://github.com/RIVALHIDE/Code-sync)
-4. 💪 Opened PR [#1](https://github.com/RIVALHIDE/Code-sync/pull/1) in [RIVALHIDE/Code-sync](https://github.com/RIVALHIDE/Code-sync)
+1. ❌ Closed PR [#1](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay/pull/1) in [prashantsky25-design/Codessey_Heramb-Upadhyay](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay)
+2. 🗣 Commented on [#1](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay/pull/1#issuecomment-6387865972) in [prashantsky25-design/Codessey_Heramb-Upadhyay](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay)
+3. 🗣 Commented on [#1](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay/pull/1#issuecomment-6387862102) in [prashantsky25-design/Codessey_Heramb-Upadhyay](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay)
+4. 💪 Opened PR [#1](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay/pull/1) in [prashantsky25-design/Codessey_Heramb-Upadhyay](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay)
 <!--END_SECTION:activity-->
 
 ---
