@@ -73,10 +73,10 @@
 ## `> RECENT.ACTIVITY`
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay/pull/1) in [prashantsky25-design/Codessey_Heramb-Upadhyay](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay)
-2. 🗣 Commented on [#1](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay/pull/1#issuecomment-6387865972) in [prashantsky25-design/Codessey_Heramb-Upadhyay](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay)
-3. 🗣 Commented on [#1](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay/pull/1#issuecomment-6387862102) in [prashantsky25-design/Codessey_Heramb-Upadhyay](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay)
-4. 💪 Opened PR [#1](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay/pull/1) in [prashantsky25-design/Codessey_Heramb-Upadhyay](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay)
+1. 🎉 Merged PR [#23490](https://github.com/meshery/meshery/pull/23490) in [meshery/meshery](https://github.com/meshery/meshery)
+2. 💪 Opened PR [#23490](https://github.com/meshery/meshery/pull/23490) in [meshery/meshery](https://github.com/meshery/meshery)
+3. ❌ Closed PR [#1](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay/pull/1) in [prashantsky25-design/Codessey_Heramb-Upadhyay](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay)
+4. 🗣 Commented on [#1](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay/pull/1#issuecomment-6387865972) in [prashantsky25-design/Codessey_Heramb-Upadhyay](https://github.com/prashantsky25-design/Codessey_Heramb-Upadhyay)
 <!--END_SECTION:activity-->
 
 ---
